@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1748" started-at="2020-09-02T15:34:46Z" finished-at="2020-09-02T15:34:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1748" started-at="2020-09-02T15:34:46Z" finished-at="2020-09-02T15:34:48Z">
+      <class name="org.testing.TestScripts.TC3_GetRequest_QueryParameters">
+        <test-method status="PASS" signature="TC3_getRequestWithQueryParameters()[pri:0, instance:org.testing.TestScripts.TC3_GetRequest_QueryParameters@229d10bd]" name="TC3_getRequestWithQueryParameters" duration-ms="63" started-at="2020-09-02T21:04:48Z" finished-at="2020-09-02T21:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_getRequestWithQueryParameters -->
+      </class> <!-- org.testing.TestScripts.TC3_GetRequest_QueryParameters -->
+      <class name="org.testing.TestScripts.TC1_PostRequest">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:org.testing.TestScripts.TC1_PostRequest@1fe20588]" name="TC1" duration-ms="1617" started-at="2020-09-02T21:04:46Z" finished-at="2020-09-02T21:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+      </class> <!-- org.testing.TestScripts.TC1_PostRequest -->
+      <class name="org.testing.TestScripts.TC_2_GetRequest">
+        <test-method status="PASS" signature="TC2_GetRequest()[pri:0, instance:org.testing.TestScripts.TC_2_GetRequest@2ddc8ecb]" name="TC2_GetRequest" duration-ms="41" started-at="2020-09-02T21:04:48Z" finished-at="2020-09-02T21:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2_GetRequest -->
+      </class> <!-- org.testing.TestScripts.TC_2_GetRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

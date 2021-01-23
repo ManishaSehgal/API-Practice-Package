@@ -1,0 +1,17 @@
+{
+ "firstName": "Gaurav",
+ "lastName": "Arora",
+ "id":886263,
+ "designation": "Team Lead",
+ "companyDetails":
+  [
+   {
+    "company": "TCS",
+    "city": "Delhi"
+   },
+     {
+    "company": "HCL",
+    "city": "Delhi"
+   }
+  ]
+}

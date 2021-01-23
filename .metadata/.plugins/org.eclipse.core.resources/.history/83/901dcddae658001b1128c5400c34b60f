@@ -1,0 +1,12 @@
+package Headers;
+
+import static com.jayway.restassured.RestAssured.*;
+
+public class FindNykaaHeaders {
+	
+	public static void main(String[] args) {
+		
+	
+	}
+
+}

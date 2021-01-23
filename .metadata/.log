@@ -1,0 +1,877 @@
+!SESSION 2020-09-18 20:58:21.265 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Users\sehga\API_RestAssured_Workspace\.metadata\.bak_0.log
+Created Time: 2020-09-18 21:48:20.797
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:20.816
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:22.311
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:25.330
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:28.352
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:29.360
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:30.878
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:33.398
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:37.922
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:39.440
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:56.472
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:57.502
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:48:59.009
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:49:01.026
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:49:04.047
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:49:07.071
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:49:11.590
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:49:13.106
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:49:32.191
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:50:48.411
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:50:49.426
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:50:50.430
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:50:57.455
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:51:05.465
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-09-18 21:51:06.499
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 1 0 2020-09-18 21:54:54.063
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\sehga\eclipse\jee-2020-062\eclipse\configuration\org.eclipse.osgi\956\0\.cp\lib\testng-remote.jar C:\Users\sehga\API_RestAssured_Workspace\TestNgPractice\target\test-classes C:\Users\sehga\API_RestAssured_Workspace\TestNgPractice\target\classes C:\Users\sehga\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar C:\Users\sehga\.m2\repository\org\testng\testng\6.10\testng-6.10.jar C:\Users\sehga\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63683 -protocol json -d C:\Users\sehga\API_RestAssured_Workspace\TestNgPractice\test-output C:\Users\sehga\API_RestAssured_Workspace\TestNgPractice\testng.xml
+java -ea -classpath C:\Users\sehga\eclipse\jee-2020-062\eclipse\configuration\org.eclipse.osgi\956\0\.cp\lib\testng-remote.jar:C:\Users\sehga\API_RestAssured_Workspace\TestNgPractice\target\test-classes:C:\Users\sehga\API_RestAssured_Workspace\TestNgPractice\target\classes:C:\Users\sehga\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar:C:\Users\sehga\.m2\repository\org\testng\testng\6.10\testng-6.10.jar:C:\Users\sehga\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar org.testng.remote.RemoteTestNG -serport 63683 -protocol json -d C:\Users\sehga\API_RestAssured_Workspace\TestNgPractice\test-output C:\Users\sehga\API_RestAssured_Workspace\TestNgPractice\testng.xml
+!SESSION 2020-12-24 18:27:04.579 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-24 18:27:16.979
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-24 18:27:16.979
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@558575fe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@25fcdcc6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-24 18:27:27.857
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 4 4 2020-12-24 18:30:17.303
+!MESSAGE Error
+!STACK 0
+java.util.concurrent.CancellationException
+	at org.eclipse.jface.internal.text.codemining.CancellationExceptionMonitor.isCanceled(CancellationExceptionMonitor.java:33)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:79)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+!SESSION 2020-12-24 21:47:19.886 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-24 21:47:27.689
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-24 21:47:27.689
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3407ded1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@63af52a6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-24 21:47:38.905
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-12-24 21:51:38.116 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-24 21:51:51.054
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-24 21:51:51.054
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@24a807a9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@aca594d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-24 21:52:02.220
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-12-24 21:56:20.755 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-24 21:56:30.865
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-24 21:56:30.865
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10ae002e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@573f2e67,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-24 21:56:40.524
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-12-25 09:14:35.984 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-25 09:14:52.533
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-25 09:14:52.533
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4853f592,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@52d434c1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-25 09:15:08.745
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-12-25 09:22:59.100 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data C:\Users\sehga\API_RestAssured_Workspace -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-25 09:23:04.769
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-25 09:23:04.769
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7bf94e91,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3fdbb7ee,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-25 09:23:14.726
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 4 4 2020-12-25 21:25:20.708
+!MESSAGE Error
+!STACK 0
+java.util.concurrent.CancellationException
+	at org.eclipse.jface.internal.text.codemining.CancellationExceptionMonitor.isCanceled(CancellationExceptionMonitor.java:33)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:79)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+!SESSION 2020-12-26 11:50:54.605 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-26 11:51:04.563
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-26 11:51:04.563
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@180e33b0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@270be080,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-26 11:51:20.432
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-12-27 10:30:51.361 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-27 10:31:07.403
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-27 10:31:07.403
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10ae002e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@573f2e67,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-27 10:31:22.745
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-01-17 22:36:29.324 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data C:\Users\sehga\API_RestAssured_Workspace -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-01-17 22:36:35.172
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-17 22:36:35.172
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@73818435,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2fce8243,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-17 22:36:45.648
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-01-20 10:28:12.881 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-01-20 10:28:26.713
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-20 10:28:26.713
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7fd7085d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@69cc3370,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-20 10:28:36.413
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 4 4 2021-01-20 12:51:34.371
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException: Cannot read the array length because "resolveType" is null
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY org.testng.eclipse 4 4 2021-01-20 12:51:35.376
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException: Cannot read the array length because "resolveType" is null
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY org.testng.eclipse 1 0 2021-01-20 12:54:35.667
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\sehga\eclipse\jee-2020-062\eclipse\configuration\org.eclipse.osgi\956\0\.cp\lib\testng-remote.jar C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\test-classes C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\classes C:\Users\sehga\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar C:\Users\sehga\.m2\repository\org\testng\testng\6.10\testng-6.10.jar C:\Users\sehga\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured\2.9.0\rest-assured-2.9.0.jar C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy\2.4.4\groovy-2.4.4.jar C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.4\groovy-xml-2.4.4.jar C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar C:\Users\sehga\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\sehga\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\sehga\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\xml-path\2.9.0\xml-path-2.9.0.jar C:\Users\sehga\.m2\repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\json-schema-validator\2.9.0\json-schema-validator-2.9.0.jar C:\Users\sehga\.m2\repository\com\github\fge\json-schema-validator\2.2.6\json-schema-validator-2.2.6.jar C:\Users\sehga\.m2\repository\com\google\code\findbugs\jsr305\3.0.0\jsr305-3.0.0.jar C:\Users\sehga\.m2\repository\joda-time\joda-time\2.3\joda-time-2.3.jar C:\Users\sehga\.m2\repository\com\googlecode\libphonenumber\libphonenumber\6.2\libphonenumber-6.2.jar C:\Users\sehga\.m2\repository\com\github\fge\json-schema-core\1.2.5\json-schema-core-1.2.5.jar C:\Users\sehga\.m2\repository\com\github\fge\uri-template\0.9\uri-template-0.9.jar C:\Users\sehga\.m2\repository\com\github\fge\msg-simple\1.1\msg-simple-1.1.jar C:\Users\sehga\.m2\repository\com\github\fge\btf\1.2\btf-1.2.jar C:\Users\sehga\.m2\repository\com\google\guava\guava\16.0.1\guava-16.0.1.jar C:\Users\sehga\.m2\repository\com\github\fge\jackson-coreutils\1.8\jackson-coreutils-1.8.jar C:\Users\sehga\.m2\repository\org\mozilla\rhino\1.7R4\rhino-1.7R4.jar C:\Users\sehga\.m2\repository\javax\mail\mailapi\1.4.3\mailapi-1.4.3.jar C:\Users\sehga\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar C:\Users\sehga\.m2\repository\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\json-path\2.2.0\json-path-2.2.0.jar C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-json\2.2.0\groovy-json-2.2.0.jar C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.3.0\jackson-databind-2.3.0.jar C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.3.0\jackson-annotations-2.3.0.jar C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.3.0\jackson-core-2.3.0.jar C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.8.5\jackson-core-asl-1.8.5.jar C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.8.5\jackson-mapper-asl-1.8.5.jar C:\Users\sehga\.m2\repository\com\google\code\gson\gson\1.7.2\gson-1.7.2.jar C:\Users\sehga\.m2\repository\com\googlecode\json-simple\json-simple\1.1\json-simple-1.1.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured-common\2.2.0\rest-assured-common-2.2.0.jar C:\Users\sehga\.m2\repository\org\json\json\20190722\json-20190722.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64513 -protocol json -d C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\test-output C:\Users\sehga\AppData\Local\Temp\testng-eclipse-463329567\testng-customsuite.xml
+java -ea -classpath C:\Users\sehga\eclipse\jee-2020-062\eclipse\configuration\org.eclipse.osgi\956\0\.cp\lib\testng-remote.jar:C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\test-classes:C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\classes:C:\Users\sehga\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar:C:\Users\sehga\.m2\repository\org\testng\testng\6.10\testng-6.10.jar:C:\Users\sehga\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured\2.9.0\rest-assured-2.9.0.jar:C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy\2.4.4\groovy-2.4.4.jar:C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.4\groovy-xml-2.4.4.jar:C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar:C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar:C:\Users\sehga\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\sehga\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\sehga\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\xml-path\2.9.0\xml-path-2.9.0.jar:C:\Users\sehga\.m2\repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\json-schema-validator\2.9.0\json-schema-validator-2.9.0.jar:C:\Users\sehga\.m2\repository\com\github\fge\json-schema-validator\2.2.6\json-schema-validator-2.2.6.jar:C:\Users\sehga\.m2\repository\com\google\code\findbugs\jsr305\3.0.0\jsr305-3.0.0.jar:C:\Users\sehga\.m2\repository\joda-time\joda-time\2.3\joda-time-2.3.jar:C:\Users\sehga\.m2\repository\com\googlecode\libphonenumber\libphonenumber\6.2\libphonenumber-6.2.jar:C:\Users\sehga\.m2\repository\com\github\fge\json-schema-core\1.2.5\json-schema-core-1.2.5.jar:C:\Users\sehga\.m2\repository\com\github\fge\uri-template\0.9\uri-template-0.9.jar:C:\Users\sehga\.m2\repository\com\github\fge\msg-simple\1.1\msg-simple-1.1.jar:C:\Users\sehga\.m2\repository\com\github\fge\btf\1.2\btf-1.2.jar:C:\Users\sehga\.m2\repository\com\google\guava\guava\16.0.1\guava-16.0.1.jar:C:\Users\sehga\.m2\repository\com\github\fge\jackson-coreutils\1.8\jackson-coreutils-1.8.jar:C:\Users\sehga\.m2\repository\org\mozilla\rhino\1.7R4\rhino-1.7R4.jar:C:\Users\sehga\.m2\repository\javax\mail\mailapi\1.4.3\mailapi-1.4.3.jar:C:\Users\sehga\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar:C:\Users\sehga\.m2\repository\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\json-path\2.2.0\json-path-2.2.0.jar:C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-json\2.2.0\groovy-json-2.2.0.jar:C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.3.0\jackson-databind-2.3.0.jar:C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.3.0\jackson-annotations-2.3.0.jar:C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.3.0\jackson-core-2.3.0.jar:C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.8.5\jackson-core-asl-1.8.5.jar:C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.8.5\jackson-mapper-asl-1.8.5.jar:C:\Users\sehga\.m2\repository\com\google\code\gson\gson\1.7.2\gson-1.7.2.jar:C:\Users\sehga\.m2\repository\com\googlecode\json-simple\json-simple\1.1\json-simple-1.1.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured-common\2.2.0\rest-assured-common-2.2.0.jar:C:\Users\sehga\.m2\repository\org\json\json\20190722\json-20190722.jar org.testng.remote.RemoteTestNG -serport 64513 -protocol json -d C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\test-output C:\Users\sehga\AppData\Local\Temp\testng-eclipse-463329567\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-01-20 12:55:27.956
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\sehga\eclipse\jee-2020-062\eclipse\configuration\org.eclipse.osgi\956\0\.cp\lib\testng-remote.jar C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\test-classes C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\classes C:\Users\sehga\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar C:\Users\sehga\.m2\repository\org\testng\testng\6.10\testng-6.10.jar C:\Users\sehga\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured\2.9.0\rest-assured-2.9.0.jar C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy\2.4.4\groovy-2.4.4.jar C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.4\groovy-xml-2.4.4.jar C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar C:\Users\sehga\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\sehga\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\sehga\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\xml-path\2.9.0\xml-path-2.9.0.jar C:\Users\sehga\.m2\repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\json-schema-validator\2.9.0\json-schema-validator-2.9.0.jar C:\Users\sehga\.m2\repository\com\github\fge\json-schema-validator\2.2.6\json-schema-validator-2.2.6.jar C:\Users\sehga\.m2\repository\com\google\code\findbugs\jsr305\3.0.0\jsr305-3.0.0.jar C:\Users\sehga\.m2\repository\joda-time\joda-time\2.3\joda-time-2.3.jar C:\Users\sehga\.m2\repository\com\googlecode\libphonenumber\libphonenumber\6.2\libphonenumber-6.2.jar C:\Users\sehga\.m2\repository\com\github\fge\json-schema-core\1.2.5\json-schema-core-1.2.5.jar C:\Users\sehga\.m2\repository\com\github\fge\uri-template\0.9\uri-template-0.9.jar C:\Users\sehga\.m2\repository\com\github\fge\msg-simple\1.1\msg-simple-1.1.jar C:\Users\sehga\.m2\repository\com\github\fge\btf\1.2\btf-1.2.jar C:\Users\sehga\.m2\repository\com\google\guava\guava\16.0.1\guava-16.0.1.jar C:\Users\sehga\.m2\repository\com\github\fge\jackson-coreutils\1.8\jackson-coreutils-1.8.jar C:\Users\sehga\.m2\repository\org\mozilla\rhino\1.7R4\rhino-1.7R4.jar C:\Users\sehga\.m2\repository\javax\mail\mailapi\1.4.3\mailapi-1.4.3.jar C:\Users\sehga\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar C:\Users\sehga\.m2\repository\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\json-path\2.2.0\json-path-2.2.0.jar C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-json\2.2.0\groovy-json-2.2.0.jar C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.3.0\jackson-databind-2.3.0.jar C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.3.0\jackson-annotations-2.3.0.jar C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.3.0\jackson-core-2.3.0.jar C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.8.5\jackson-core-asl-1.8.5.jar C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.8.5\jackson-mapper-asl-1.8.5.jar C:\Users\sehga\.m2\repository\com\google\code\gson\gson\1.7.2\gson-1.7.2.jar C:\Users\sehga\.m2\repository\com\googlecode\json-simple\json-simple\1.1\json-simple-1.1.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured-common\2.2.0\rest-assured-common-2.2.0.jar C:\Users\sehga\.m2\repository\org\json\json\20190722\json-20190722.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64518 -protocol json -d C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\test-output C:\Users\sehga\AppData\Local\Temp\testng-eclipse--337070739\testng-customsuite.xml
+java -ea -classpath C:\Users\sehga\eclipse\jee-2020-062\eclipse\configuration\org.eclipse.osgi\956\0\.cp\lib\testng-remote.jar:C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\test-classes:C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\classes:C:\Users\sehga\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar:C:\Users\sehga\.m2\repository\org\testng\testng\6.10\testng-6.10.jar:C:\Users\sehga\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured\2.9.0\rest-assured-2.9.0.jar:C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy\2.4.4\groovy-2.4.4.jar:C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.4\groovy-xml-2.4.4.jar:C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar:C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar:C:\Users\sehga\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\sehga\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\sehga\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\xml-path\2.9.0\xml-path-2.9.0.jar:C:\Users\sehga\.m2\repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\json-schema-validator\2.9.0\json-schema-validator-2.9.0.jar:C:\Users\sehga\.m2\repository\com\github\fge\json-schema-validator\2.2.6\json-schema-validator-2.2.6.jar:C:\Users\sehga\.m2\repository\com\google\code\findbugs\jsr305\3.0.0\jsr305-3.0.0.jar:C:\Users\sehga\.m2\repository\joda-time\joda-time\2.3\joda-time-2.3.jar:C:\Users\sehga\.m2\repository\com\googlecode\libphonenumber\libphonenumber\6.2\libphonenumber-6.2.jar:C:\Users\sehga\.m2\repository\com\github\fge\json-schema-core\1.2.5\json-schema-core-1.2.5.jar:C:\Users\sehga\.m2\repository\com\github\fge\uri-template\0.9\uri-template-0.9.jar:C:\Users\sehga\.m2\repository\com\github\fge\msg-simple\1.1\msg-simple-1.1.jar:C:\Users\sehga\.m2\repository\com\github\fge\btf\1.2\btf-1.2.jar:C:\Users\sehga\.m2\repository\com\google\guava\guava\16.0.1\guava-16.0.1.jar:C:\Users\sehga\.m2\repository\com\github\fge\jackson-coreutils\1.8\jackson-coreutils-1.8.jar:C:\Users\sehga\.m2\repository\org\mozilla\rhino\1.7R4\rhino-1.7R4.jar:C:\Users\sehga\.m2\repository\javax\mail\mailapi\1.4.3\mailapi-1.4.3.jar:C:\Users\sehga\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar:C:\Users\sehga\.m2\repository\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\json-path\2.2.0\json-path-2.2.0.jar:C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-json\2.2.0\groovy-json-2.2.0.jar:C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.3.0\jackson-databind-2.3.0.jar:C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.3.0\jackson-annotations-2.3.0.jar:C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.3.0\jackson-core-2.3.0.jar:C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.8.5\jackson-core-asl-1.8.5.jar:C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.8.5\jackson-mapper-asl-1.8.5.jar:C:\Users\sehga\.m2\repository\com\google\code\gson\gson\1.7.2\gson-1.7.2.jar:C:\Users\sehga\.m2\repository\com\googlecode\json-simple\json-simple\1.1\json-simple-1.1.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured-common\2.2.0\rest-assured-common-2.2.0.jar:C:\Users\sehga\.m2\repository\org\json\json\20190722\json-20190722.jar org.testng.remote.RemoteTestNG -serport 64518 -protocol json -d C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\test-output C:\Users\sehga\AppData\Local\Temp\testng-eclipse--337070739\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-01-20 13:05:31.045
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\sehga\eclipse\jee-2020-062\eclipse\configuration\org.eclipse.osgi\956\0\.cp\lib\testng-remote.jar C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\test-classes C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\classes C:\Users\sehga\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar C:\Users\sehga\.m2\repository\org\testng\testng\6.10\testng-6.10.jar C:\Users\sehga\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured\2.9.0\rest-assured-2.9.0.jar C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy\2.4.4\groovy-2.4.4.jar C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.4\groovy-xml-2.4.4.jar C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar C:\Users\sehga\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\sehga\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\sehga\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\xml-path\2.9.0\xml-path-2.9.0.jar C:\Users\sehga\.m2\repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\json-schema-validator\2.9.0\json-schema-validator-2.9.0.jar C:\Users\sehga\.m2\repository\com\github\fge\json-schema-validator\2.2.6\json-schema-validator-2.2.6.jar C:\Users\sehga\.m2\repository\com\google\code\findbugs\jsr305\3.0.0\jsr305-3.0.0.jar C:\Users\sehga\.m2\repository\joda-time\joda-time\2.3\joda-time-2.3.jar C:\Users\sehga\.m2\repository\com\googlecode\libphonenumber\libphonenumber\6.2\libphonenumber-6.2.jar C:\Users\sehga\.m2\repository\com\github\fge\json-schema-core\1.2.5\json-schema-core-1.2.5.jar C:\Users\sehga\.m2\repository\com\github\fge\uri-template\0.9\uri-template-0.9.jar C:\Users\sehga\.m2\repository\com\github\fge\msg-simple\1.1\msg-simple-1.1.jar C:\Users\sehga\.m2\repository\com\github\fge\btf\1.2\btf-1.2.jar C:\Users\sehga\.m2\repository\com\google\guava\guava\16.0.1\guava-16.0.1.jar C:\Users\sehga\.m2\repository\com\github\fge\jackson-coreutils\1.8\jackson-coreutils-1.8.jar C:\Users\sehga\.m2\repository\org\mozilla\rhino\1.7R4\rhino-1.7R4.jar C:\Users\sehga\.m2\repository\javax\mail\mailapi\1.4.3\mailapi-1.4.3.jar C:\Users\sehga\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar C:\Users\sehga\.m2\repository\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\json-path\2.2.0\json-path-2.2.0.jar C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-json\2.2.0\groovy-json-2.2.0.jar C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.3.0\jackson-databind-2.3.0.jar C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.3.0\jackson-annotations-2.3.0.jar C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.3.0\jackson-core-2.3.0.jar C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.8.5\jackson-core-asl-1.8.5.jar C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.8.5\jackson-mapper-asl-1.8.5.jar C:\Users\sehga\.m2\repository\com\google\code\gson\gson\1.7.2\gson-1.7.2.jar C:\Users\sehga\.m2\repository\com\googlecode\json-simple\json-simple\1.1\json-simple-1.1.jar C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured-common\2.2.0\rest-assured-common-2.2.0.jar C:\Users\sehga\.m2\repository\org\json\json\20190722\json-20190722.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64652 -protocol json -d C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\test-output C:\Users\sehga\AppData\Local\Temp\testng-eclipse--931470563\testng-customsuite.xml
+java -ea -classpath C:\Users\sehga\eclipse\jee-2020-062\eclipse\configuration\org.eclipse.osgi\956\0\.cp\lib\testng-remote.jar:C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\test-classes:C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\target\classes:C:\Users\sehga\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar:C:\Users\sehga\.m2\repository\org\testng\testng\6.10\testng-6.10.jar:C:\Users\sehga\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured\2.9.0\rest-assured-2.9.0.jar:C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy\2.4.4\groovy-2.4.4.jar:C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.4\groovy-xml-2.4.4.jar:C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar:C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar:C:\Users\sehga\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\sehga\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\sehga\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\sehga\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\sehga\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\xml-path\2.9.0\xml-path-2.9.0.jar:C:\Users\sehga\.m2\repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\json-schema-validator\2.9.0\json-schema-validator-2.9.0.jar:C:\Users\sehga\.m2\repository\com\github\fge\json-schema-validator\2.2.6\json-schema-validator-2.2.6.jar:C:\Users\sehga\.m2\repository\com\google\code\findbugs\jsr305\3.0.0\jsr305-3.0.0.jar:C:\Users\sehga\.m2\repository\joda-time\joda-time\2.3\joda-time-2.3.jar:C:\Users\sehga\.m2\repository\com\googlecode\libphonenumber\libphonenumber\6.2\libphonenumber-6.2.jar:C:\Users\sehga\.m2\repository\com\github\fge\json-schema-core\1.2.5\json-schema-core-1.2.5.jar:C:\Users\sehga\.m2\repository\com\github\fge\uri-template\0.9\uri-template-0.9.jar:C:\Users\sehga\.m2\repository\com\github\fge\msg-simple\1.1\msg-simple-1.1.jar:C:\Users\sehga\.m2\repository\com\github\fge\btf\1.2\btf-1.2.jar:C:\Users\sehga\.m2\repository\com\google\guava\guava\16.0.1\guava-16.0.1.jar:C:\Users\sehga\.m2\repository\com\github\fge\jackson-coreutils\1.8\jackson-coreutils-1.8.jar:C:\Users\sehga\.m2\repository\org\mozilla\rhino\1.7R4\rhino-1.7R4.jar:C:\Users\sehga\.m2\repository\javax\mail\mailapi\1.4.3\mailapi-1.4.3.jar:C:\Users\sehga\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar:C:\Users\sehga\.m2\repository\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\json-path\2.2.0\json-path-2.2.0.jar:C:\Users\sehga\.m2\repository\org\codehaus\groovy\groovy-json\2.2.0\groovy-json-2.2.0.jar:C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.3.0\jackson-databind-2.3.0.jar:C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.3.0\jackson-annotations-2.3.0.jar:C:\Users\sehga\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.3.0\jackson-core-2.3.0.jar:C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.8.5\jackson-core-asl-1.8.5.jar:C:\Users\sehga\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.8.5\jackson-mapper-asl-1.8.5.jar:C:\Users\sehga\.m2\repository\com\google\code\gson\gson\1.7.2\gson-1.7.2.jar:C:\Users\sehga\.m2\repository\com\googlecode\json-simple\json-simple\1.1\json-simple-1.1.jar:C:\Users\sehga\.m2\repository\com\jayway\restassured\rest-assured-common\2.2.0\rest-assured-common-2.2.0.jar:C:\Users\sehga\.m2\repository\org\json\json\20190722\json-20190722.jar org.testng.remote.RemoteTestNG -serport 64652 -protocol json -d C:\Users\sehga\API_RestAssured_Workspace\PracticeAPI\test-output C:\Users\sehga\AppData\Local\Temp\testng-eclipse--931470563\testng-customsuite.xml
+!SESSION 2021-01-21 14:29:11.084 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data C:\Users\sehga\API_RestAssured_Workspace -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-01-21 14:29:14.378
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-21 14:29:14.378
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7962a364,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@756030e2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-21 14:29:20.722
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sehga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

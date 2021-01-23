@@ -1,0 +1,32 @@
+package org.testing.Utilities;
+
+import java.util.ArrayList;
+
+public class GettingAllVariablesInJson {
+	
+	
+	public static ArrayList<String> getAllVariables(String bodyData) {
+		
+	  ArrayList<String> arrList = new ArrayList<String>();
+	   String[]  s1= bodyData.split(",");
+	   for(String strByComma: s1) {
+		  // System.out.println(strByComma);
+		   
+		  String[] s2 = strByComma.split(":");
+		    for(String strByColon : s2) {
+		        
+		    	
+		        if(strByColon.contains("{{")||strByColon.contains("}}")) {
+		        	strByColon=strByColon.substring(strByColon.indexOf("{{")-2, strByColon.indexOf("}}"));
+		        	arrList.add(strByColon);
+		        }   
+		        
+		    }
+		   
+	   }
+	   System.out.println(arrList);
+	   
+	   return arrList;
+	}
+
+}

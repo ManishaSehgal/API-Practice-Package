@@ -1,0 +1,13 @@
+package org.practice.API;
+
+import static com.jayway.restassured.RestAssured.*;
+
+public class GetRequest {
+	
+	public static void main(String[] args) {
+		
+		
+		RestAssured
+	}
+
+}

@@ -1,0 +1,20 @@
+package org.practice.API;
+
+import static com.jayway.restassured.RestAssured.*;
+
+import com.jayway.restassured.http.ContentType;
+
+public class GetRequest {
+	
+	public static void main(String[] args) {
+		
+		String baseURI = " http://localhost:3000";
+		
+		given().contentType(ContentType.JSON)
+		.when()
+		.get("/CollegeInfo");
+		
+		
+	}
+
+}

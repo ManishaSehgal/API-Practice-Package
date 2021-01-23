@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79" started-at="2020-09-09T07:02:45Z" finished-at="2020-09-09T07:02:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79" started-at="2020-09-09T07:02:45Z" finished-at="2020-09-09T07:02:45Z">
+      <class name="org.testing.TestScripts.TestCase1">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:org.testing.TestScripts.TestCase1@1a04f701]" name="TC1" duration-ms="26" started-at="2020-09-09T12:32:45Z" finished-at="2020-09-09T12:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+      </class> <!-- org.testing.TestScripts.TestCase1 -->
+      <class name="org.testing.TestScripts.TestCase2">
+        <test-method status="PASS" signature="TC2()[pri:0, instance:org.testing.TestScripts.TestCase2@4e91d63f]" name="TC2" duration-ms="3" started-at="2020-09-09T12:32:45Z" finished-at="2020-09-09T12:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:org.testing.TestScripts.TestCase2@4e91d63f]" name="afterSuite" is-config="true" duration-ms="2507" started-at="2020-09-09T12:32:45Z" finished-at="2020-09-09T12:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- org.testing.TestScripts.TestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

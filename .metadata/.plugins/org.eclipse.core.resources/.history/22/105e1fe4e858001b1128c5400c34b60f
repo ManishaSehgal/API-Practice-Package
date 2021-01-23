@@ -1,0 +1,28 @@
+package Headers;
+
+import static com.jayway.restassured.RestAssured.*;
+
+import java.util.HashMap;
+
+import com.jayway.restassured.http.ContentType;
+import com.jayway.restassured.response.Response;
+
+public class FindNykaaHeaders {
+	
+	public static void main(String[] args) {
+		
+		 HashMap<String, String> headersMap = new HashMap<String, String>();
+		 headersMap.put("Cookie", "PHPSESSID");
+		 headersMap.put("Content-Type", "application/json");
+		 
+		
+		Response res =given().contentType(ContentType.JSON).headers(headersMap)
+				.when()
+				.get("https://www.nykaa.com/gateway-api/cartapi/api/v2/cart/items");
+		
+	System.out.println(res.getHeaders());
+	
+		
+	}
+
+}

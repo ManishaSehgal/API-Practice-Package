@@ -1,0 +1,19 @@
+package APIProject.FirstAPIProject;
+
+import static com.jayway.restassured.RestAssured.*;
+
+import com.jayway.restassured.http.ContentType;
+
+public class AnotherGetRequest {
+
+	public static void main(String[] args) {
+	
+		given().contentType(ContentType.JSON)
+		.when()
+		.get("http://localhost:3000/comments")
+		.then()
+		.statusCode(201);
+
+	}
+
+}

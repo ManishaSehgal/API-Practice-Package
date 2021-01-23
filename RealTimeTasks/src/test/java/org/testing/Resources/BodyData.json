@@ -1,0 +1,11 @@
+{
+  "firstName": "Sutanshu",
+  "lastName" : "Mehta",
+  "id": "6799",
+  "age"      : "23",
+   "designation": "{{designationVal}}",
+   "spouseName":"{{spouseNameVal}}",
+   "organistaion": "HCL",
+   "salary":"{{salaryVal}}",
+   "country": "{{countryVal}}"
+}

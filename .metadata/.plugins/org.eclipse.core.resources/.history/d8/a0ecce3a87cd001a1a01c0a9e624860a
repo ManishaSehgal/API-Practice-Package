@@ -1,0 +1,13 @@
+package APIProject.FirstAPIProject;
+
+import static com.jayway.restassured.RestAssured.*;
+
+public class AnotherGetRequest {
+
+	public static void main(String[] args) {
+	
+		RestAssured
+
+	}
+
+}

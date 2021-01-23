@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60" started-at="2020-09-18T16:24:56Z" finished-at="2020-09-18T16:24:56Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="60" started-at="2020-09-18T16:24:56Z" finished-at="2020-09-18T16:24:56Z">
+      <class name="org.testing.TestScripts.TestCase2">
+        <test-method status="PASS" signature="parameterizedMethod(int, java.lang.String)[pri:0, instance:org.testing.TestScripts.TestCase2@290d210d]" name="parameterizedMethod" duration-ms="19" started-at="2020-09-18T21:54:56Z" finished-at="2020-09-18T21:54:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1244444]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Manisha Sehgal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parameterizedMethod -->
+      </class> <!-- org.testing.TestScripts.TestCase2 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

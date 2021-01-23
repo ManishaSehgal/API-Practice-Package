@@ -1,0 +1,1364 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "address": {
+          "type": "object",
+          "properties": {
+            "houseNo": {
+              "type": "string"
+            },
+            "streetNo": {
+              "type": "string"
+            },
+            "area": {
+              "type": "string"
+            },
+            "city": {
+              "type": "string"
+            },
+            "pinCode": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "houseNo",
+            "streetNo",
+            "area",
+            "city",
+            "pinCode"
+          ]
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "address"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "empty": {
+          "type": "boolean"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "empty",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "address": {
+          "type": "object",
+          "properties": {
+            "area": {
+              "type": "string"
+            },
+            "stree tNo": {
+              "type": "string"
+            },
+            "city": {
+              "type": "string"
+            },
+            "houseNo": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "area",
+            "stree tNo",
+            "city",
+            "houseNo"
+          ]
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "address",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "phoneNumbers": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "number": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "number",
+                "type"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "numnber": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "numnber",
+                "type"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "phoneNumbers"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "designation": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "designation"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "designation": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "designation"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "designation": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "designation"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "designation": {
+          "type": "string"
+        },
+        "address": {
+          "type": "object",
+          "properties": {
+            "houseNumber": {
+              "type": "string"
+            },
+            "streetName": {
+              "type": "string"
+            },
+            "city": {
+              "type": "string"
+            },
+            "areaCode": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "houseNumber",
+            "streetName",
+            "city",
+            "areaCode"
+          ]
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "designation",
+        "address"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "addArr": {
+          "type": "object",
+          "properties": {
+            "addressDetails": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "houseNo": {
+                      "type": "string"
+                    },
+                    "streetNo": {
+                      "type": "string"
+                    },
+                    "sector": {
+                      "type": "string"
+                    },
+                    "city": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "houseNo",
+                    "streetNo",
+                    "sector",
+                    "city"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "houseNo": {
+                      "type": "string"
+                    },
+                    "streetNo": {
+                      "type": "string"
+                    },
+                    "sector": {
+                      "type": "string"
+                    },
+                    "city": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "houseNo",
+                    "streetNo",
+                    "sector",
+                    "city"
+                  ]
+                }
+              ]
+            },
+            "companyAddresses": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "plotNo": {
+                      "type": "string"
+                    },
+                    "streetName": {
+                      "type": "string"
+                    },
+                    "area": {
+                      "type": "string"
+                    },
+                    "pinCode": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "plotNo",
+                    "streetName",
+                    "area",
+                    "pinCode"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "plotNo": {
+                      "type": "string"
+                    },
+                    "streetName": {
+                      "type": "string"
+                    },
+                    "area": {
+                      "type": "string"
+                    },
+                    "pinCode": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "plotNo",
+                    "streetName",
+                    "area",
+                    "pinCode"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "addressDetails",
+            "companyAddresses"
+          ]
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "addArr"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "addressDetails": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "houseNo": {
+                  "type": "string"
+                },
+                "streetNo": {
+                  "type": "string"
+                },
+                "sector": {
+                  "type": "string"
+                },
+                "city": {
+                  "type": "string"
+                },
+                "buildingNo": {
+                  "type": "null"
+                }
+              },
+              "required": [
+                "houseNo",
+                "streetNo",
+                "sector",
+                "city",
+                "buildingNo"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "houseNo": {
+                  "type": "null"
+                },
+                "streetNo": {
+                  "type": "string"
+                },
+                "sector": {
+                  "type": "null"
+                },
+                "city": {
+                  "type": "string"
+                },
+                "buildingNo": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "houseNo",
+                "streetNo",
+                "sector",
+                "city",
+                "buildingNo"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "houseNo": {
+                  "type": "null"
+                },
+                "streetNo": {
+                  "type": "string"
+                },
+                "sector": {
+                  "type": "null"
+                },
+                "city": {
+                  "type": "string"
+                },
+                "buildingNo": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "houseNo",
+                "streetNo",
+                "sector",
+                "city",
+                "buildingNo"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "addressDetails"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "empty": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "empty"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "empty": {
+          "type": "boolean"
+        },
+        "firstname": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id",
+        "empty",
+        "firstname"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employee": {
+          "type": "object",
+          "properties": {
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "designation": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "firstName",
+            "lastName",
+            "designation",
+            "id"
+          ]
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employee",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "designation": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "designation",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "designation": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "designation",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "empty": {
+          "type": "boolean"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "empty",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "empty": {
+          "type": "boolean"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "empty",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "firstName",
+        "lastName",
+        "id"
+      ]
+    }
+  ]
+}

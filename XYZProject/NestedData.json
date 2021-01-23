@@ -1,0 +1,12 @@
+{
+ "firstName": "Mahesh",
+ "lastName": "Gupta",
+ "designation": "Senior SE",
+ "addressDetails": {
+                     "houseAddress": {
+                                       "houseNo": "23",
+                                       "streetName":"Prem Colony"
+                                     }
+                    }
+
+}

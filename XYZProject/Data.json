@@ -1,0 +1,42 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "Choclate cake",
+			"category": "bakery",
+			"ingredients": [
+				             {
+					           "sugar": "brown sugar",
+					           "milk": "condensed milk",
+					           "flour": "all purpose flour",
+					           "baking agent": "eno"
+				             },
+				             {
+					           "sugar": "plain sugar",
+					           "milk": "milkmaid",
+					           "flour": "wheat flour",
+					           "baking agent": "baking powder"
+				             }
+			              ]
+		},
+		{
+			
+           "id": 2,
+           "name": "Ice cream",
+           "category": "dessert",
+           "ingredients": [
+                               {
+                                "IceCreamName": "mango ice-cream",
+                                "sugar": "brown sugar",
+                                "flour": "all purpose flour"
+                               },
+                              
+                               {
+                                "IceCreamName": "black current ice-cream",
+                                "sugar": "brown sugar",
+                                "flour": "all purpose flour"
+                               }
+                             ]
+             }
+        ]
+}

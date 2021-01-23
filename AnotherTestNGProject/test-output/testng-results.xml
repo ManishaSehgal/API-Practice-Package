@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70" started-at="2020-09-17T13:41:25Z" finished-at="2020-09-17T13:41:25Z">
+    <groups>
+      <group name="Group1">
+        <method signature="DummyTestNG.dummyMethod()[pri:0, instance:package1.DummyTestNG@add0edd]" name="dummyMethod" class="package1.DummyTestNG"/>
+      </group> <!-- Group1 -->
+    </groups>
+    <test name="Test" duration-ms="70" started-at="2020-09-17T13:41:25Z" finished-at="2020-09-17T13:41:25Z">
+      <class name="package1.DummyTestNG">
+        <test-method status="PASS" signature="dummyMethod()[pri:0, instance:package1.DummyTestNG@add0edd]" name="dummyMethod" duration-ms="23" started-at="2020-09-17T19:11:25Z" finished-at="2020-09-17T19:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummyMethod -->
+      </class> <!-- package1.DummyTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

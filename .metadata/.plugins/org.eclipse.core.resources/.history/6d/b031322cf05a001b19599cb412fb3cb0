@@ -1,0 +1,37 @@
+package org.practice.API;
+
+import static com.jayway.restassured.RestAssured.*;
+
+import org.testng.annotations.BeforeMethod;
+import org.testng.asserts.SoftAssert;
+
+import com.jayway.restassured.http.ContentType;
+import com.jayway.restassured.response.Response;
+
+public class GetRequest {
+	
+	
+		@BeforeMethod
+		public void setUp() {
+		String baseURI="http://localhost:3000";
+		String endpoint ="/CollegeInfo";
+		}
+		
+		@Test
+		public void getInfo() {
+		Response res =given().contentType(ContentType.JSON)
+		.when()
+		.get(endpoint);
+		
+		System.out.println(res.getStatusLine());
+		System.out.println(res.asString());
+		
+		}
+		
+	
+		
+		
+		
+	}
+
+}

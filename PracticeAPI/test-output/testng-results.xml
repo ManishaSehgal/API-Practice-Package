@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1255" started-at="2021-01-20T07:35:32Z" finished-at="2021-01-20T07:35:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1255" started-at="2021-01-20T07:35:32Z" finished-at="2021-01-20T07:35:33Z">
+      <class name="org.practice.API.GetRequest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.practice.API.GetRequest@7a4ccb53]" name="setUp" is-config="true" duration-ms="335" started-at="2021-01-20T13:05:32Z" finished-at="2021-01-20T13:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getInfo()[pri:0, instance:org.practice.API.GetRequest@7a4ccb53]" name="getInfo" duration-ms="889" started-at="2021-01-20T13:05:32Z" finished-at="2021-01-20T13:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInfo -->
+      </class> <!-- org.practice.API.GetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
